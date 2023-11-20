@@ -32,7 +32,7 @@ Most dependencies can be installed using pip, Python's package installer. Exampl
 
 ```bash
 pip install numpy matplotlib joblib numexpr jax
-
+```
 ## Introduction
 
 This project focuses on the estimation of the Mandelbrot set area, a classic problem in computational mathematics and fractal geometry. The Mandelbrot set, named after mathematician Benoît Mandelbrot, is a complex and visually striking set of points that shows that simple rules can create complex structures.
