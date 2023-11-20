@@ -23,7 +23,7 @@ This document provides a detailed list of external libraries and modules used in
 - **Installation**: `pip install numexpr`
 
 ### 5. jax
-- **Description**: An open-source library for high-performance machine learning research. Known for its numpy-like API and efficient computation of gradients.
+- **Description**: An open-source library for high-performance machine learning research. Here used as numpy alternative.
 - **Installation**: `pip install jax`
 
 ## Installation of Dependencies
