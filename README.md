@@ -28,11 +28,15 @@ This document provides a detailed list of external libraries and modules used in
 
 ## Installation of Dependencies
 
-Most dependencies can be installed using pip, Python's package installer. Example:
+Most dependencies can be installed using pip or conda. Example:
 
 ```bash
 pip install numpy matplotlib joblib numexpr jax
 ```
+```bash
+conda install numpy matplotlib joblib numexpr jax
+```
+
 ## Introduction
 
 This project focuses on the estimation of the Mandelbrot set area, a classic problem in computational mathematics and fractal geometry. The Mandelbrot set, named after mathematician Benoît Mandelbrot, is a complex and visually striking set of points that shows that simple rules can create complex structures.
